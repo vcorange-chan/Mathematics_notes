@@ -3,7 +3,8 @@
 Our study is the following differential equation 
 
 $$
-\tag{1.1.1}
+\tag{1.1.1} 
+
 \frac{d\bar x}{dt} = f(t, \bar x)
 $$
 
@@ -27,6 +28,7 @@ Our goal is solving the equation when we already know the  `velocity` but dont k
 
 $$
 \frac{d\bar{x}}{dt} = f(t, \bar{x}(t))  \\
+
 \bar{x}(t_0) = \bar{x}_0 
 $$
 
