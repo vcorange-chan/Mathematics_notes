@@ -38,9 +38,7 @@ $t_0$ denote the initial time, $\bar x_0$ is the initial position.  (Note: displ
 
 
 
-![plot_6](file:///C:/Users/1/Documents/Documents/ODE/JuliaCode/Ch1_IVP.svg)
-
-
+![IVPCh1_1](file:///C:/Users/1/Documents/Documents/Mathematics_notes/ODE/JuliaCode/Ch1_IVP.svg)
 
 
 
